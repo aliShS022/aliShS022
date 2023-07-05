@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Novin.FoodApp.Infrastructure.Data;
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args);gi
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NovinTrainingFoodBackend"
   ],
-  "SelectedNode": "\\NovinTrainingFoodBackend.sln",
+  "SelectedNode": "\\NovinTrainingFoodBackend\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
